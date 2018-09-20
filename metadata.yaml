@@ -1,0 +1,38 @@
+_repo: Peter-Camenzind_52989
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Railo, Eino
+    alias: Iisalo, Osmo
+    birthdate: 1884
+    deathdate: 1948
+    gutenberg_agent_id: '46473'
+    url: http://www.gutenberg.org/2009/agents/46473
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Railo
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Sinclair, Emil
+    - Lauscher, Hermann
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2016-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52989'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: Peter Camenzind
+url: http://www.gutenberg.org/ebooks/52989
