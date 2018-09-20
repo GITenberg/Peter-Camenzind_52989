@@ -1,5 +1,5 @@
 _repo: Peter-Camenzind_52989
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Railo, Eino
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46473'
     url: http://www.gutenberg.org/2009/agents/46473
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Railo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/941
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52989#Peter-Camenzind
 gutenberg_issued: '2016-09-05'
 gutenberg_type: Text
 identifiers:
